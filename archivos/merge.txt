@@ -1,3 +1,9 @@
+Esta vez si pudimos crear el archivo en la carpeta esto debido a que la carpeta ya existe previamente
+
 Juan Jose Ospina Erazo
 22 años
 Aspiro aplicar lo que voy aprendiendo en mi entorno, incluyendo en mi mundo laboral
+
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Esto debido a que cuando trabajamos dos archivos al mismo tiempo, git no sabra cual de los dos cambios queremos que permanezca y entrara en conflicto, por esto debemos mantener actualizado nuestra copia local y tener cuidado al subir nuevos cambios a el repositorio remoto
